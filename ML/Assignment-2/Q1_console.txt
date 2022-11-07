@@ -1,0 +1,13 @@
+PS C:\Users\sushanthmarada\Desktop\ML\ass2> python -u "c:\Users\sushanthmarada\Desktop\ML\ass2\q1.py"
+
+covariance matrix :
+[[ 0.05290845 -0.00454496  0.05996621  0.05982683]
+ [-0.00454496  0.03263959 -0.02271983 -0.02048285]
+ [ 0.05996621 -0.02271983  0.08943348  0.09155279]
+ [ 0.05982683 -0.02048285  0.09155279  0.1011136 ]]
+
+relative  covariance  matrix :
+[0.84141901 0.11732474 0.03490564 0.00635061]
+
+Total variance with two components :  0.9587437487644829
+95% variance was preserved so num_components = 2.
